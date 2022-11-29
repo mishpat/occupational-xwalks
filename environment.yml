@@ -1,0 +1,11 @@
+name: base
+
+dependencies:
+  - python=3.8
+  - numpy
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
+  - partd
+  - bokeh
